@@ -13,7 +13,7 @@ StudyBuddyAI is an AI-powered web application that helps students interact with 
 
 ## 🖼️ Application Preview
 
-![StudyBuddyAI Screenshot](overview_img.png)
+![StudyBuddyAI Screenshot](Overview_img.png)
 
 ---
 
